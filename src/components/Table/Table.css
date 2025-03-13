@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&family=Lexend:wght@100..900&display=swap');
+
+.fira-sans-regular {
+    font-family: "Fira Sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .lexend-600 {
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
